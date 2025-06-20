@@ -1,0 +1,601 @@
+prompt_id,prompt_text,prompt_type,primary_genre,main_theme,structure_type,word_count,character_count
+1,Craft a sci-fi tale exploring how hope leads to mysterious sacrifice.,general,sci-fi,sacrifice,craft_narrative,11,69
+2,Create a thriller narrative about a betrayal facing a whimsical challenge.,general,thriller,betrayal,create_narrative,11,74
+3,Craft a adventure epic where redemption becomes the key to humorous survival.,general,adventure,survival,craft_narrative,12,77
+4,Craft a horror epic where sacrifice becomes the key to humorous identity.,general,horror,sacrifice,craft_narrative,12,73
+5,Write a sci-fi chronicle where survival must overcome suspenseful obstacles.,general,sci-fi,survival,write_story,10,76
+6,"In a suspenseful horror realm, redemption discovers the power of survival.",general,horror,survival,world_setting,11,74
+7,Tell a historical fiction legend about a redemption seeking mysterious betrayal.,general,historical fiction,betrayal,tell_story,11,80
+8,Tell a horror story where sacrifice must choose between identity and betrayal.,general,horror,sacrifice,tell_story,12,78
+9,Craft a historical fiction tale exploring how betrayal leads to unexpected sacrifice.,general,historical fiction,sacrifice,craft_narrative,12,85
+10,Write a mystery chronicle where redemption must overcome uplifting obstacles.,general,mystery,redemption,write_story,10,77
+11,Write about a fantasy who finds sacrifice in a whimsical setting.,general,fantasy,sacrifice,write_story,11,65
+12,Create a horror odyssey focused on love and their suspenseful destiny.,general,horror,love,create_narrative,11,70
+13,Create a fantasy tale about a sacrifice facing a unexpected challenge.,general,fantasy,sacrifice,create_narrative,11,70
+14,Tell a adventure legend about a hope seeking whimsical betrayal.,general,adventure,hope,tell_story,10,64
+15,Craft a adventure tale exploring how love leads to uplifting love.,general,adventure,love,craft_narrative,11,66
+16,Write a romance tale where family leads to an unexpected mysterious.,general,romance,family,write_story,11,68
+17,Write about a romance world where family is both unexpected and essential.,general,romance,family,write_story,12,74
+18,"In a adventure world, a family must dark to save the survival.",general,adventure,family,world_setting,12,62
+19,Write about a fantasy who finds betrayal in a suspenseful setting.,general,fantasy,betrayal,write_story,11,66
+20,Create a romance story about a survival facing a dark challenge.,general,romance,survival,create_narrative,11,64
+21,Write about a coming-of-age who finds redemption in a suspenseful setting.,general,coming-of-age,redemption,write_story,11,74
+22,"In a unexpected romance realm, redemption discovers the power of family.",general,romance,family,world_setting,11,72
+23,Write about a romance world where betrayal is both suspenseful and essential.,general,romance,betrayal,write_story,12,77
+24,Tell a thriller legend about a sacrifice seeking humorous hope.,general,thriller,sacrifice,tell_story,10,63
+25,Create a thriller odyssey focused on love and their humorous destiny.,general,thriller,love,create_narrative,11,69
+26,"In a historical fiction world, a survival must unexpected to save the hope.",general,historical fiction,hope,world_setting,13,75
+27,Write about a historical fiction world where sacrifice is both humorous and essential.,general,historical fiction,sacrifice,write_story,13,86
+28,Create a horror tale about a hope facing a mysterious challenge.,general,horror,hope,create_narrative,11,64
+29,Write a mystery story about a redemption who discovers a humorous secret.,general,mystery,redemption,write_story,12,73
+30,Create a romance odyssey focused on redemption and their dark destiny.,general,romance,redemption,create_narrative,11,70
+31,Tell a historical fiction story where sacrifice must choose between hope and redemption.,general,historical fiction,sacrifice,tell_story,13,88
+32,Write about a sci-fi who finds betrayal in a humorous setting.,general,sci-fi,betrayal,write_story,11,62
+33,Write a mystery adventure where betrayal transforms through humorous trials.,general,mystery,betrayal,write_story,10,76
+34,Craft a coming-of-age tale exploring how family leads to dark hope.,general,coming-of-age,family,craft_narrative,11,67
+35,Craft a historical fiction tale exploring how survival leads to uplifting love.,general,historical fiction,love,craft_narrative,12,79
+36,Craft a fantasy epic where identity becomes the key to mysterious identity.,general,fantasy,identity,craft_narrative,12,75
+37,Craft a fantasy epic where hope becomes the key to mysterious survival.,general,fantasy,hope,craft_narrative,12,71
+38,Tell a coming-of-age story where sacrifice must choose between betrayal and family.,general,coming-of-age,family,tell_story,12,83
+39,Tell a mystery story where identity must choose between survival and redemption.,general,mystery,identity,tell_story,12,80
+40,"In a unexpected thriller realm, betrayal discovers the power of redemption.",general,thriller,betrayal,world_setting,11,75
+41,Create a coming-of-age saga about the humorous journey of family.,general,coming-of-age,family,create_narrative,10,65
+42,Tell a thriller story where identity must choose between sacrifice and survival.,general,thriller,sacrifice,tell_story,12,80
+43,Write a romance story about a sacrifice who discovers a unexpected secret.,general,romance,sacrifice,write_story,12,74
+44,"In a suspenseful historical fiction realm, love discovers the power of identity.",general,historical fiction,love,world_setting,12,80
+45,Craft a mystery tale exploring how redemption leads to whimsical sacrifice.,general,mystery,sacrifice,craft_narrative,11,75
+46,Create a horror tale about a betrayal facing a suspenseful challenge.,general,horror,betrayal,create_narrative,11,69
+47,Create a historical fiction odyssey focused on survival and their uplifting destiny.,general,historical fiction,survival,create_narrative,12,84
+48,Write a romance tale about a family who discovers a dark secret.,general,romance,family,write_story,12,64
+49,Write about a horror world where love is both humorous and essential.,general,horror,love,write_story,12,69
+50,Create a horror odyssey focused on survival and their dark destiny.,general,horror,survival,create_narrative,11,67
+51,Tell a mystery legend about a betrayal seeking suspenseful redemption.,general,mystery,betrayal,tell_story,10,70
+52,Write a thriller chronicle where survival must overcome suspenseful obstacles.,general,thriller,survival,write_story,10,78
+53,"In a mysterious fantasy realm, sacrifice discovers the power of family.",general,fantasy,family,world_setting,11,71
+54,"In a horror world, a survival must mysterious to save the love.",general,horror,love,world_setting,12,63
+55,Write a romance narrative about a redemption who discovers a unexpected secret.,general,romance,redemption,write_story,12,79
+56,Write a horror chronicle where survival must overcome dark obstacles.,general,horror,survival,write_story,10,69
+57,Tell a thriller story where betrayal must choose between sacrifice and love.,general,thriller,sacrifice,tell_story,12,76
+58,Write a mystery adventure where survival transforms through unexpected trials.,general,mystery,survival,write_story,10,78
+59,Write a fantasy tale where redemption leads to an unexpected whimsical.,general,fantasy,redemption,write_story,11,71
+60,Write about a thriller who finds betrayal in a suspenseful setting.,general,thriller,betrayal,write_story,11,67
+61,Create a historical fiction narrative about a identity facing a humorous challenge.,general,historical fiction,identity,create_narrative,12,83
+62,"In a uplifting fantasy realm, redemption discovers the power of hope.",general,fantasy,hope,world_setting,11,69
+63,Craft a historical fiction tale exploring how identity leads to uplifting betrayal.,general,historical fiction,identity,craft_narrative,12,83
+64,Tell a thriller story where sacrifice must choose between identity and hope.,general,thriller,sacrifice,tell_story,12,76
+65,Create a thriller odyssey focused on love and their unexpected destiny.,general,thriller,love,create_narrative,11,71
+66,Tell a adventure story where survival must choose between love and sacrifice.,general,adventure,sacrifice,tell_story,12,77
+67,Create a adventure tale about a family facing a mysterious challenge.,general,adventure,family,create_narrative,11,69
+68,"In a humorous romance realm, survival discovers the power of identity.",general,romance,identity,world_setting,11,70
+69,"In a unexpected mystery realm, family discovers the power of family.",general,mystery,family,world_setting,11,68
+70,Create a fantasy saga about the dark journey of betrayal.,general,fantasy,betrayal,create_narrative,10,57
+71,"In a coming-of-age world, a redemption must dark to save the survival.",general,coming-of-age,survival,world_setting,12,70
+72,Write a historical fiction chronicle where hope must overcome unexpected obstacles.,general,historical fiction,hope,write_story,11,83
+73,Craft a horror epic where love becomes the key to unexpected survival.,general,horror,love,craft_narrative,12,70
+74,Write about a mystery who finds betrayal in a unexpected setting.,general,mystery,betrayal,write_story,11,65
+75,Tell a horror legend about a hope seeking mysterious hope.,general,horror,hope,tell_story,10,58
+76,"In a dark thriller realm, hope discovers the power of sacrifice.",general,thriller,sacrifice,world_setting,11,64
+77,Write a fantasy tale where redemption leads to an unexpected humorous.,general,fantasy,redemption,write_story,11,70
+78,Create a romance story about a redemption facing a unexpected challenge.,general,romance,redemption,create_narrative,11,72
+79,Tell a sci-fi story where love must choose between love and hope.,general,sci-fi,love,tell_story,12,65
+80,Write a fantasy narrative about a family who discovers a uplifting secret.,general,fantasy,family,write_story,12,74
+81,Write a sci-fi tale where love leads to an unexpected whimsical.,general,sci-fi,love,write_story,11,64
+82,Write about a thriller who finds love in a dark setting.,general,thriller,love,write_story,11,56
+83,Create a coming-of-age story about a redemption facing a dark challenge.,general,coming-of-age,redemption,create_narrative,11,72
+84,Write a coming-of-age adventure where survival transforms through dark trials.,general,adventure,survival,write_story,10,78
+85,Craft a thriller tale exploring how survival leads to dark hope.,general,thriller,hope,craft_narrative,11,64
+86,Create a fantasy odyssey focused on identity and their suspenseful destiny.,general,fantasy,identity,create_narrative,11,75
+87,Write a fantasy tale where survival leads to an unexpected unexpected.,general,fantasy,survival,write_story,11,70
+88,Create a coming-of-age odyssey focused on survival and their whimsical destiny.,general,coming-of-age,survival,create_narrative,11,79
+89,Write about a thriller world where identity is both mysterious and essential.,general,thriller,identity,write_story,12,77
+90,"In a mystery world, a hope must humorous to save the family.",general,mystery,family,world_setting,12,60
+91,Create a coming-of-age saga about the unexpected journey of identity.,general,coming-of-age,identity,create_narrative,10,69
+92,"In a unexpected sci-fi realm, hope discovers the power of redemption.",general,sci-fi,hope,world_setting,11,69
+93,Write a mystery narrative about a identity who discovers a uplifting secret.,general,mystery,identity,write_story,12,76
+94,Write a fantasy tale where identity leads to an unexpected mysterious.,general,fantasy,identity,write_story,11,70
+95,Create a historical fiction saga about the whimsical journey of betrayal.,general,historical fiction,betrayal,create_narrative,11,73
+96,Write a mystery tale about a family who discovers a mysterious secret.,general,mystery,family,write_story,12,70
+97,Write about a adventure world where redemption is both humorous and essential.,general,adventure,redemption,write_story,12,78
+98,Write about a coming-of-age who finds identity in a unexpected setting.,general,coming-of-age,identity,write_story,11,71
+99,Craft a adventure tale exploring how identity leads to whimsical redemption.,general,adventure,identity,craft_narrative,11,76
+100,Write a romance adventure where sacrifice transforms through whimsical trials.,general,romance,sacrifice,write_story,10,78
+101,Write a romance tale about a love who discovers a suspenseful secret.,general,romance,love,write_story,12,69
+102,Write a horror chronicle where hope must overcome unexpected obstacles.,general,horror,hope,write_story,10,71
+103,Write a historical fiction story about a love who discovers a suspenseful secret.,general,historical fiction,love,write_story,13,81
+104,"In a coming-of-age world, a identity must uplifting to save the betrayal.",general,coming-of-age,identity,world_setting,12,73
+105,Write a fantasy tale where hope leads to an unexpected humorous.,general,fantasy,hope,write_story,11,64
+106,Write a historical fiction adventure where love transforms through uplifting trials.,general,adventure,love,write_story,11,84
+107,Write about a horror world where survival is both unexpected and essential.,general,horror,survival,write_story,12,75
+108,Create a horror saga about the unexpected journey of identity.,general,horror,identity,create_narrative,10,62
+109,Craft a sci-fi tale exploring how love leads to humorous family.,general,sci-fi,family,craft_narrative,11,64
+110,Create a mystery story about a love facing a unexpected challenge.,general,mystery,love,create_narrative,11,66
+111,Create a coming-of-age narrative about a sacrifice facing a uplifting challenge.,general,coming-of-age,sacrifice,create_narrative,11,80
+112,"In a humorous sci-fi realm, identity discovers the power of family.",general,sci-fi,family,world_setting,11,67
+113,"In a thriller world, a redemption must uplifting to save the family.",general,thriller,family,world_setting,12,68
+114,Create a coming-of-age odyssey focused on survival and their unexpected destiny.,general,coming-of-age,survival,create_narrative,11,80
+115,Craft a historical fiction epic where redemption becomes the key to uplifting family.,general,historical fiction,family,craft_narrative,13,85
+116,Write about a romance who finds sacrifice in a unexpected setting.,general,romance,sacrifice,write_story,11,66
+117,Write about a romance world where survival is both mysterious and essential.,general,romance,survival,write_story,12,76
+118,Write a horror story about a love who discovers a humorous secret.,general,horror,love,write_story,12,66
+119,"In a sci-fi world, a hope must uplifting to save the survival.",general,sci-fi,hope,world_setting,12,62
+120,Write a mystery tale about a family who discovers a mysterious secret.,general,mystery,family,write_story,12,70
+121,Craft a adventure epic where betrayal becomes the key to humorous betrayal.,general,adventure,betrayal,craft_narrative,12,75
+122,Write a sci-fi tale about a hope who discovers a uplifting secret.,general,sci-fi,hope,write_story,12,66
+123,Write a horror chronicle where hope must overcome uplifting obstacles.,general,horror,hope,write_story,10,70
+124,Craft a thriller epic where sacrifice becomes the key to whimsical identity.,general,thriller,sacrifice,craft_narrative,12,76
+125,Tell a historical fiction story where love must choose between identity and betrayal.,general,historical fiction,love,tell_story,13,85
+126,Create a mystery narrative about a survival facing a mysterious challenge.,general,mystery,survival,create_narrative,11,74
+127,Create a mystery saga about the dark journey of sacrifice.,general,mystery,sacrifice,create_narrative,10,58
+128,"In a romance world, a survival must whimsical to save the love.",general,romance,love,world_setting,12,63
+129,Write about a horror world where family is both mysterious and essential.,general,horror,family,write_story,12,73
+130,Craft a thriller epic where redemption becomes the key to unexpected survival.,general,thriller,survival,craft_narrative,12,78
+131,Write a thriller chronicle where hope must overcome unexpected obstacles.,general,thriller,hope,write_story,10,73
+132,Write about a thriller who finds betrayal in a whimsical setting.,general,thriller,betrayal,write_story,11,65
+133,Write a sci-fi tale about a betrayal who discovers a suspenseful secret.,general,sci-fi,betrayal,write_story,12,72
+134,Craft a sci-fi tale exploring how survival leads to suspenseful survival.,general,sci-fi,survival,craft_narrative,11,73
+135,Write about a fantasy who finds redemption in a humorous setting.,general,fantasy,redemption,write_story,11,65
+136,Create a thriller tale about a love facing a whimsical challenge.,general,thriller,love,create_narrative,11,65
+137,Write a adventure chronicle where betrayal must overcome humorous obstacles.,general,adventure,betrayal,write_story,10,76
+138,Write a thriller tale where love leads to an unexpected humorous.,general,thriller,love,write_story,11,65
+139,Write a fantasy adventure where survival transforms through suspenseful trials.,general,fantasy,survival,write_story,10,79
+140,Write about a horror who finds survival in a unexpected setting.,general,horror,survival,write_story,11,64
+141,Tell a adventure legend about a sacrifice seeking suspenseful sacrifice.,general,adventure,sacrifice,tell_story,10,72
+142,Craft a horror epic where love becomes the key to unexpected survival.,general,horror,love,craft_narrative,12,70
+143,Tell a romance legend about a betrayal seeking humorous love.,general,romance,love,tell_story,10,61
+144,Write a horror adventure where sacrifice transforms through mysterious trials.,general,horror,sacrifice,write_story,10,78
+145,"In a humorous horror realm, hope discovers the power of redemption.",general,horror,hope,world_setting,11,67
+146,Craft a romance epic where sacrifice becomes the key to humorous hope.,general,romance,sacrifice,craft_narrative,12,70
+147,"In a romance world, a love must suspenseful to save the family.",general,romance,family,world_setting,12,63
+148,Create a romance odyssey focused on redemption and their dark destiny.,general,romance,redemption,create_narrative,11,70
+149,Write a adventure chronicle where survival must overcome humorous obstacles.,general,adventure,survival,write_story,10,76
+150,Write a sci-fi narrative about a betrayal who discovers a humorous secret.,general,sci-fi,betrayal,write_story,12,74
+151,Craft a horror epic where sacrifice becomes the key to uplifting survival.,general,horror,sacrifice,craft_narrative,12,74
+152,Craft a horror epic where sacrifice becomes the key to humorous hope.,general,horror,sacrifice,craft_narrative,12,69
+153,Tell a romance story where betrayal must choose between sacrifice and identity.,general,romance,sacrifice,tell_story,12,79
+154,Write a romance adventure where family transforms through dark trials.,general,romance,family,write_story,10,70
+155,Tell a fantasy legend about a love seeking unexpected love.,general,fantasy,love,tell_story,10,59
+156,Write a historical fiction tale where betrayal leads to an unexpected unexpected.,general,historical fiction,betrayal,write_story,12,81
+157,Tell a thriller legend about a betrayal seeking whimsical love.,general,thriller,love,tell_story,10,63
+158,Create a mystery story about a hope facing a mysterious challenge.,general,mystery,hope,create_narrative,11,66
+159,Write a adventure adventure where redemption transforms through dark trials.,general,adventure,redemption,write_story,10,76
+160,Craft a coming-of-age tale exploring how betrayal leads to suspenseful betrayal.,general,coming-of-age,betrayal,craft_narrative,11,80
+161,Craft a adventure epic where family becomes the key to mysterious identity.,general,adventure,family,craft_narrative,12,75
+162,"In a thriller world, a love must unexpected to save the redemption.",general,thriller,love,world_setting,12,67
+163,Tell a sci-fi story where hope must choose between identity and family.,general,sci-fi,family,tell_story,12,71
+164,Create a coming-of-age narrative about a sacrifice facing a uplifting challenge.,general,coming-of-age,sacrifice,create_narrative,11,80
+165,Write a romance story about a love who discovers a humorous secret.,general,romance,love,write_story,12,67
+166,Craft a horror epic where love becomes the key to whimsical survival.,general,horror,love,craft_narrative,12,69
+167,"In a thriller world, a sacrifice must unexpected to save the identity.",general,thriller,sacrifice,world_setting,12,70
+168,Create a romance odyssey focused on survival and their unexpected destiny.,general,romance,survival,create_narrative,11,74
+169,Tell a adventure story where betrayal must choose between family and redemption.,general,adventure,family,tell_story,12,80
+170,Write a horror chronicle where hope must overcome suspenseful obstacles.,general,horror,hope,write_story,10,72
+171,"In a whimsical sci-fi realm, sacrifice discovers the power of survival.",general,sci-fi,sacrifice,world_setting,11,71
+172,Create a thriller saga about the humorous journey of betrayal.,general,thriller,betrayal,create_narrative,10,62
+173,Craft a coming-of-age epic where sacrifice becomes the key to dark sacrifice.,general,coming-of-age,sacrifice,craft_narrative,12,77
+174,Write a historical fiction chronicle where redemption must overcome suspenseful obstacles.,general,historical fiction,redemption,write_story,11,90
+175,Craft a adventure epic where family becomes the key to dark identity.,general,adventure,family,craft_narrative,12,69
+176,Tell a mystery story where betrayal must choose between survival and family.,general,mystery,family,tell_story,12,76
+177,Create a fantasy saga about the dark journey of redemption.,general,fantasy,redemption,create_narrative,10,59
+178,Create a historical fiction saga about the dark journey of love.,general,historical fiction,love,create_narrative,11,64
+179,Tell a romance legend about a hope seeking whimsical betrayal.,general,romance,hope,tell_story,10,62
+180,"In a mysterious adventure realm, betrayal discovers the power of survival.",general,adventure,betrayal,world_setting,11,74
+181,Create a horror saga about the humorous journey of sacrifice.,general,horror,sacrifice,create_narrative,10,61
+182,Write about a historical fiction who finds identity in a unexpected setting.,general,historical fiction,identity,write_story,12,76
+183,Write a mystery story about a sacrifice who discovers a whimsical secret.,general,mystery,sacrifice,write_story,12,73
+184,Write a adventure tale where identity leads to an unexpected mysterious.,general,adventure,identity,write_story,11,72
+185,Tell a romance story where identity must choose between survival and betrayal.,general,romance,identity,tell_story,12,78
+186,Craft a coming-of-age epic where love becomes the key to whimsical love.,general,coming-of-age,love,craft_narrative,12,72
+187,Create a romance saga about the unexpected journey of hope.,general,romance,hope,create_narrative,10,59
+188,Create a sci-fi saga about the uplifting journey of hope.,general,sci-fi,hope,create_narrative,10,57
+189,Write about a fantasy world where love is both dark and essential.,general,fantasy,love,write_story,12,66
+190,Create a horror story about a hope facing a humorous challenge.,general,horror,hope,create_narrative,11,63
+191,Create a adventure tale about a hope facing a unexpected challenge.,general,adventure,hope,create_narrative,11,67
+192,Write about a horror who finds hope in a dark setting.,general,horror,hope,write_story,11,54
+193,Write about a thriller who finds identity in a uplifting setting.,general,thriller,identity,write_story,11,65
+194,Tell a sci-fi story where identity must choose between love and survival.,general,sci-fi,love,tell_story,12,73
+195,Create a coming-of-age saga about the whimsical journey of survival.,general,coming-of-age,survival,create_narrative,10,68
+196,"In a thriller world, a identity must mysterious to save the redemption.",general,thriller,identity,world_setting,12,71
+197,Write a romance adventure where redemption transforms through whimsical trials.,general,romance,redemption,write_story,10,79
+198,Write about a adventure world where sacrifice is both mysterious and essential.,general,adventure,sacrifice,write_story,12,79
+199,Write about a fantasy world where sacrifice is both humorous and essential.,general,fantasy,sacrifice,write_story,12,75
+200,Create a thriller saga about the whimsical journey of love.,general,thriller,love,create_narrative,10,59
+201,"In a mysterious thriller realm, identity discovers the power of identity.",general,thriller,identity,world_setting,11,73
+202,Write a coming-of-age chronicle where survival must overcome mysterious obstacles.,general,coming-of-age,survival,write_story,10,82
+203,"In a sci-fi world, a family must uplifting to save the survival.",general,sci-fi,family,world_setting,12,64
+204,Write a fantasy tale where family leads to an unexpected uplifting.,general,fantasy,family,write_story,11,67
+205,Write a mystery tale where identity leads to an unexpected dark.,general,mystery,identity,write_story,11,64
+206,Craft a mystery tale exploring how hope leads to uplifting sacrifice.,general,mystery,sacrifice,craft_narrative,11,69
+207,Write about a mystery who finds hope in a suspenseful setting.,general,mystery,hope,write_story,11,62
+208,Craft a mystery epic where family becomes the key to whimsical identity.,general,mystery,family,craft_narrative,12,72
+209,Craft a mystery tale exploring how survival leads to unexpected betrayal.,general,mystery,betrayal,craft_narrative,11,73
+210,Write about a mystery world where redemption is both suspenseful and essential.,general,mystery,redemption,write_story,12,79
+211,Write about a sci-fi who finds redemption in a unexpected setting.,general,sci-fi,redemption,write_story,11,66
+212,Create a thriller saga about the uplifting journey of survival.,general,thriller,survival,create_narrative,10,63
+213,Create a sci-fi odyssey focused on hope and their whimsical destiny.,general,sci-fi,hope,create_narrative,11,68
+214,"In a suspenseful fantasy realm, sacrifice discovers the power of family.",general,fantasy,family,world_setting,11,72
+215,"In a suspenseful adventure realm, redemption discovers the power of redemption.",general,adventure,redemption,world_setting,11,79
+216,Write about a mystery who finds betrayal in a humorous setting.,general,mystery,betrayal,write_story,11,63
+217,Write a mystery chronicle where redemption must overcome humorous obstacles.,general,mystery,redemption,write_story,10,76
+218,Craft a romance epic where family becomes the key to uplifting hope.,general,romance,family,craft_narrative,12,68
+219,Write about a sci-fi who finds identity in a mysterious setting.,general,sci-fi,identity,write_story,11,64
+220,"In a mysterious adventure realm, hope discovers the power of survival.",general,adventure,hope,world_setting,11,70
+221,"In a whimsical thriller realm, betrayal discovers the power of sacrifice.",general,thriller,sacrifice,world_setting,11,73
+222,Craft a mystery tale exploring how hope leads to humorous love.,general,mystery,love,craft_narrative,11,63
+223,Write about a mystery world where love is both humorous and essential.,general,mystery,love,write_story,12,70
+224,Write a horror chronicle where identity must overcome humorous obstacles.,general,horror,identity,write_story,10,73
+225,Write about a mystery who finds survival in a whimsical setting.,general,mystery,survival,write_story,11,64
+226,Write about a sci-fi world where sacrifice is both unexpected and essential.,general,sci-fi,sacrifice,write_story,12,76
+227,Craft a thriller epic where redemption becomes the key to humorous survival.,general,thriller,survival,craft_narrative,12,76
+228,"In a coming-of-age world, a hope must uplifting to save the identity.",general,coming-of-age,hope,world_setting,12,69
+229,Create a fantasy saga about the humorous journey of family.,general,fantasy,family,create_narrative,10,59
+230,Tell a coming-of-age story where betrayal must choose between family and sacrifice.,general,coming-of-age,family,tell_story,12,83
+231,Write about a romance who finds identity in a unexpected setting.,general,romance,identity,write_story,11,65
+232,Write about a thriller world where sacrifice is both uplifting and essential.,general,thriller,sacrifice,write_story,12,77
+233,Create a romance odyssey focused on betrayal and their humorous destiny.,general,romance,betrayal,create_narrative,11,72
+234,Write a horror tale about a hope who discovers a humorous secret.,general,horror,hope,write_story,12,65
+235,Tell a fantasy legend about a love seeking humorous identity.,general,fantasy,love,tell_story,10,61
+236,Tell a fantasy story where sacrifice must choose between family and sacrifice.,general,fantasy,family,tell_story,12,78
+237,Tell a coming-of-age legend about a sacrifice seeking dark hope.,general,coming-of-age,sacrifice,tell_story,10,64
+238,Write a adventure adventure where hope transforms through mysterious trials.,general,adventure,hope,write_story,10,76
+239,"In a fantasy world, a sacrifice must humorous to save the hope.",general,fantasy,sacrifice,world_setting,12,63
+240,Craft a horror epic where sacrifice becomes the key to humorous sacrifice.,general,horror,sacrifice,craft_narrative,12,74
+241,Write a coming-of-age tale where betrayal leads to an unexpected unexpected.,general,coming-of-age,betrayal,write_story,11,76
+242,Tell a historical fiction story where betrayal must choose between survival and love.,general,historical fiction,love,tell_story,13,85
+243,"In a adventure world, a hope must mysterious to save the family.",general,adventure,family,world_setting,12,64
+244,Create a horror odyssey focused on hope and their unexpected destiny.,general,horror,hope,create_narrative,11,69
+245,Craft a adventure epic where sacrifice becomes the key to unexpected love.,general,adventure,sacrifice,craft_narrative,12,74
+246,Create a adventure odyssey focused on redemption and their suspenseful destiny.,general,adventure,redemption,create_narrative,11,79
+247,Tell a fantasy legend about a hope seeking mysterious family.,general,fantasy,family,tell_story,10,61
+248,Craft a thriller epic where redemption becomes the key to humorous hope.,general,thriller,hope,craft_narrative,12,72
+249,Write a thriller narrative about a family who discovers a whimsical secret.,general,thriller,family,write_story,12,75
+250,Tell a sci-fi legend about a love seeking suspenseful hope.,general,sci-fi,love,tell_story,10,59
+251,Create a thriller odyssey focused on family and their humorous destiny.,general,thriller,family,create_narrative,11,71
+252,Create a fantasy saga about the whimsical journey of survival.,general,fantasy,survival,create_narrative,10,62
+253,Write about a coming-of-age world where redemption is both dark and essential.,general,coming-of-age,redemption,write_story,12,78
+254,Tell a mystery story where redemption must choose between betrayal and sacrifice.,general,mystery,sacrifice,tell_story,12,81
+255,Write a fantasy narrative about a survival who discovers a whimsical secret.,general,fantasy,survival,write_story,12,76
+256,"In a suspenseful mystery realm, family discovers the power of hope.",general,mystery,family,world_setting,11,67
+257,Create a coming-of-age tale about a survival facing a humorous challenge.,general,coming-of-age,survival,create_narrative,11,73
+258,Write a horror narrative about a survival who discovers a humorous secret.,general,horror,survival,write_story,12,74
+259,Create a thriller saga about the unexpected journey of sacrifice.,general,thriller,sacrifice,create_narrative,10,65
+260,Write about a sci-fi who finds redemption in a suspenseful setting.,general,sci-fi,redemption,write_story,11,67
+261,Write about a fantasy who finds identity in a uplifting setting.,general,fantasy,identity,write_story,11,64
+262,"In a horror world, a survival must uplifting to save the redemption.",general,horror,survival,world_setting,12,68
+263,Write a coming-of-age adventure where hope transforms through whimsical trials.,general,adventure,hope,write_story,10,79
+264,Tell a romance legend about a identity seeking dark survival.,general,romance,identity,tell_story,10,61
+265,"In a suspenseful coming-of-age realm, family discovers the power of hope.",general,coming-of-age,family,world_setting,11,73
+266,Create a horror odyssey focused on redemption and their dark destiny.,general,horror,redemption,create_narrative,11,69
+267,Write about a romance who finds love in a humorous setting.,general,romance,love,write_story,11,59
+268,Tell a mystery story where love must choose between identity and identity.,general,mystery,love,tell_story,12,74
+269,Create a adventure saga about the whimsical journey of redemption.,general,adventure,redemption,create_narrative,10,66
+270,Write a horror tale where redemption leads to an unexpected mysterious.,general,horror,redemption,write_story,11,71
+271,Create a historical fiction odyssey focused on family and their dark destiny.,general,historical fiction,family,create_narrative,12,77
+272,Create a sci-fi odyssey focused on love and their humorous destiny.,general,sci-fi,love,create_narrative,11,67
+273,Create a thriller odyssey focused on love and their suspenseful destiny.,general,thriller,love,create_narrative,11,72
+274,Tell a mystery legend about a betrayal seeking suspenseful betrayal.,general,mystery,betrayal,tell_story,10,68
+275,Write about a mystery world where love is both humorous and essential.,general,mystery,love,write_story,12,70
+276,Write about a historical fiction world where love is both mysterious and essential.,general,historical fiction,love,write_story,13,83
+277,Tell a historical fiction legend about a survival seeking uplifting sacrifice.,general,historical fiction,sacrifice,tell_story,11,78
+278,"In a humorous historical fiction realm, hope discovers the power of love.",general,historical fiction,love,world_setting,12,73
+279,Create a mystery odyssey focused on identity and their mysterious destiny.,general,mystery,identity,create_narrative,11,74
+280,"In a uplifting adventure realm, betrayal discovers the power of sacrifice.",general,adventure,sacrifice,world_setting,11,74
+281,Write a mystery chronicle where hope must overcome whimsical obstacles.,general,mystery,hope,write_story,10,71
+282,Write a coming-of-age tale where family leads to an unexpected unexpected.,general,coming-of-age,family,write_story,11,74
+283,Create a mystery odyssey focused on family and their mysterious destiny.,general,mystery,family,create_narrative,11,72
+284,Write a sci-fi adventure where redemption transforms through unexpected trials.,general,sci-fi,redemption,write_story,10,79
+285,Create a thriller odyssey focused on betrayal and their uplifting destiny.,general,thriller,betrayal,create_narrative,11,74
+286,Write a adventure narrative about a love who discovers a dark secret.,general,adventure,love,write_story,12,69
+287,Write a adventure chronicle where betrayal must overcome suspenseful obstacles.,general,adventure,betrayal,write_story,10,79
+288,Tell a romance legend about a family seeking uplifting love.,general,romance,family,tell_story,10,60
+289,Craft a coming-of-age epic where love becomes the key to dark identity.,general,coming-of-age,love,craft_narrative,12,71
+290,Write about a fantasy who finds survival in a unexpected setting.,general,fantasy,survival,write_story,11,65
+291,Create a horror odyssey focused on hope and their mysterious destiny.,general,horror,hope,create_narrative,11,69
+292,Create a mystery tale about a sacrifice facing a mysterious challenge.,general,mystery,sacrifice,create_narrative,11,70
+293,"In a thriller world, a hope must mysterious to save the love.",general,thriller,love,world_setting,12,61
+294,Write a thriller narrative about a hope who discovers a dark secret.,general,thriller,hope,write_story,12,68
+295,Write a mystery tale about a hope who discovers a uplifting secret.,general,mystery,hope,write_story,12,67
+296,Craft a thriller tale exploring how survival leads to uplifting identity.,general,thriller,identity,craft_narrative,11,73
+297,Write a historical fiction chronicle where survival must overcome mysterious obstacles.,general,historical fiction,survival,write_story,11,87
+298,Write a horror tale where betrayal leads to an unexpected unexpected.,general,horror,betrayal,write_story,11,69
+299,Create a mystery narrative about a betrayal facing a whimsical challenge.,general,mystery,betrayal,create_narrative,11,73
+300,Create a thriller odyssey focused on betrayal and their suspenseful destiny.,general,thriller,betrayal,create_narrative,11,76
+301,"In a sci-fi world, a love must whimsical to save the sacrifice.",general,sci-fi,sacrifice,world_setting,12,63
+302,Write a sci-fi chronicle where survival must overcome dark obstacles.,general,sci-fi,survival,write_story,10,69
+303,Write a sci-fi chronicle where sacrifice must overcome dark obstacles.,general,sci-fi,sacrifice,write_story,10,70
+304,Write a horror tale where redemption leads to an unexpected uplifting.,general,horror,redemption,write_story,11,70
+305,Craft a adventure epic where sacrifice becomes the key to uplifting betrayal.,general,adventure,sacrifice,craft_narrative,12,77
+306,Tell a horror legend about a redemption seeking humorous love.,general,horror,love,tell_story,10,62
+307,Tell a adventure story where sacrifice must choose between love and sacrifice.,general,adventure,sacrifice,tell_story,12,78
+308,Craft a mystery tale exploring how survival leads to suspenseful redemption.,general,mystery,survival,craft_narrative,11,76
+309,"In a fantasy world, a identity must dark to save the identity.",general,fantasy,identity,world_setting,12,62
+310,Create a coming-of-age saga about the mysterious journey of redemption.,general,coming-of-age,redemption,create_narrative,10,71
+311,Write about a adventure world where survival is both uplifting and essential.,general,adventure,survival,write_story,12,77
+312,Write a coming-of-age narrative about a identity who discovers a mysterious secret.,general,coming-of-age,identity,write_story,12,83
+313,Tell a adventure legend about a redemption seeking suspenseful sacrifice.,general,adventure,sacrifice,tell_story,10,73
+314,Write a mystery tale where sacrifice leads to an unexpected mysterious.,general,mystery,sacrifice,write_story,11,71
+315,Craft a historical fiction epic where family becomes the key to uplifting betrayal.,general,historical fiction,family,craft_narrative,13,83
+316,Craft a romance epic where family becomes the key to suspenseful identity.,general,romance,family,craft_narrative,12,74
+317,"In a adventure world, a hope must whimsical to save the identity.",general,adventure,hope,world_setting,12,65
+318,Write a sci-fi adventure where love transforms through humorous trials.,general,sci-fi,love,write_story,10,71
+319,Create a coming-of-age story about a love facing a suspenseful challenge.,general,coming-of-age,love,create_narrative,11,73
+320,"In a whimsical adventure realm, betrayal discovers the power of identity.",general,adventure,identity,world_setting,11,73
+321,Write a sci-fi story about a love who discovers a whimsical secret.,general,sci-fi,love,write_story,12,67
+322,"In a whimsical sci-fi realm, sacrifice discovers the power of survival.",general,sci-fi,sacrifice,world_setting,11,71
+323,Write about a sci-fi who finds redemption in a unexpected setting.,general,sci-fi,redemption,write_story,11,66
+324,Create a coming-of-age story about a betrayal facing a uplifting challenge.,general,coming-of-age,betrayal,create_narrative,11,75
+325,Tell a fantasy legend about a love seeking unexpected identity.,general,fantasy,love,tell_story,10,63
+326,Write a horror adventure where hope transforms through humorous trials.,general,horror,hope,write_story,10,71
+327,Write about a sci-fi world where redemption is both suspenseful and essential.,general,sci-fi,redemption,write_story,12,78
+328,Tell a historical fiction legend about a hope seeking uplifting identity.,general,historical fiction,hope,tell_story,11,73
+329,Craft a fantasy tale exploring how identity leads to mysterious family.,general,fantasy,family,craft_narrative,11,71
+330,Write a sci-fi tale where identity leads to an unexpected uplifting.,general,sci-fi,identity,write_story,11,68
+331,Create a thriller saga about the suspenseful journey of betrayal.,general,thriller,betrayal,create_narrative,10,65
+332,Craft a coming-of-age epic where sacrifice becomes the key to humorous betrayal.,general,coming-of-age,sacrifice,craft_narrative,12,80
+333,Write a romance tale where redemption leads to an unexpected whimsical.,general,romance,redemption,write_story,11,71
+334,Write a fantasy adventure where love transforms through whimsical trials.,general,fantasy,love,write_story,10,73
+335,Create a sci-fi odyssey focused on family and their suspenseful destiny.,general,sci-fi,family,create_narrative,11,72
+336,Write a horror adventure where betrayal transforms through unexpected trials.,general,horror,betrayal,write_story,10,77
+337,Write a historical fiction chronicle where survival must overcome unexpected obstacles.,general,historical fiction,survival,write_story,11,87
+338,Write about a adventure who finds sacrifice in a uplifting setting.,general,adventure,sacrifice,write_story,11,67
+339,Craft a fantasy epic where love becomes the key to unexpected betrayal.,general,fantasy,love,craft_narrative,12,71
+340,Write a historical fiction chronicle where love must overcome suspenseful obstacles.,general,historical fiction,love,write_story,11,84
+341,Craft a coming-of-age tale exploring how redemption leads to humorous love.,general,coming-of-age,love,craft_narrative,11,75
+342,"In a coming-of-age world, a family must uplifting to save the family.",general,coming-of-age,family,world_setting,12,69
+343,Tell a coming-of-age story where redemption must choose between redemption and hope.,general,coming-of-age,hope,tell_story,12,84
+344,Tell a romance story where identity must choose between survival and identity.,general,romance,identity,tell_story,12,78
+345,Write a thriller tale where identity leads to an unexpected mysterious.,general,thriller,identity,write_story,11,71
+346,Craft a historical fiction epic where redemption becomes the key to uplifting family.,general,historical fiction,family,craft_narrative,13,85
+347,Write a romance adventure where identity transforms through humorous trials.,general,romance,identity,write_story,10,76
+348,Create a romance saga about the dark journey of hope.,general,romance,hope,create_narrative,10,53
+349,"In a mystery world, a family must unexpected to save the sacrifice.",general,mystery,family,world_setting,12,67
+350,Write a historical fiction narrative about a hope who discovers a uplifting secret.,general,historical fiction,hope,write_story,13,83
+351,Write about a coming-of-age world where sacrifice is both whimsical and essential.,general,coming-of-age,sacrifice,write_story,12,82
+352,Create a mystery odyssey focused on redemption and their mysterious destiny.,general,mystery,redemption,create_narrative,11,76
+353,Create a fantasy odyssey focused on hope and their mysterious destiny.,general,fantasy,hope,create_narrative,11,70
+354,Tell a romance story where identity must choose between identity and redemption.,general,romance,identity,tell_story,12,80
+355,Write a historical fiction tale about a hope who discovers a humorous secret.,general,historical fiction,hope,write_story,13,77
+356,Create a adventure saga about the mysterious journey of redemption.,general,adventure,redemption,create_narrative,10,67
+357,Craft a thriller epic where betrayal becomes the key to uplifting betrayal.,general,thriller,betrayal,craft_narrative,12,75
+358,Create a adventure saga about the dark journey of sacrifice.,general,adventure,sacrifice,create_narrative,10,60
+359,"In a uplifting fantasy realm, betrayal discovers the power of love.",general,fantasy,love,world_setting,11,67
+360,Write a adventure adventure where love transforms through whimsical trials.,general,adventure,love,write_story,10,75
+361,Create a mystery odyssey focused on redemption and their whimsical destiny.,general,mystery,redemption,create_narrative,11,75
+362,Create a fantasy saga about the whimsical journey of sacrifice.,general,fantasy,sacrifice,create_narrative,10,63
+363,Create a historical fiction odyssey focused on survival and their unexpected destiny.,general,historical fiction,survival,create_narrative,12,85
+364,Write a coming-of-age tale where identity leads to an unexpected dark.,general,coming-of-age,identity,write_story,11,70
+365,Craft a adventure epic where sacrifice becomes the key to uplifting identity.,general,adventure,sacrifice,craft_narrative,12,77
+366,Tell a romance story where love must choose between identity and hope.,general,romance,love,tell_story,12,70
+367,Write a sci-fi narrative about a survival who discovers a dark secret.,general,sci-fi,survival,write_story,12,70
+368,Write a fantasy tale where family leads to an unexpected humorous.,general,fantasy,family,write_story,11,66
+369,"In a humorous romance realm, betrayal discovers the power of redemption.",general,romance,betrayal,world_setting,11,72
+370,Write about a sci-fi world where family is both dark and essential.,general,sci-fi,family,write_story,12,67
+371,Write about a mystery who finds redemption in a unexpected setting.,general,mystery,redemption,write_story,11,67
+372,"In a historical fiction world, a hope must suspenseful to save the redemption.",general,historical fiction,hope,world_setting,13,78
+373,Create a thriller odyssey focused on survival and their mysterious destiny.,general,thriller,survival,create_narrative,11,75
+374,Create a romance odyssey focused on betrayal and their humorous destiny.,general,romance,betrayal,create_narrative,11,72
+375,Write a fantasy narrative about a survival who discovers a unexpected secret.,general,fantasy,survival,write_story,12,77
+376,Craft a fantasy epic where redemption becomes the key to suspenseful hope.,general,fantasy,hope,craft_narrative,12,74
+377,Write a adventure story about a family who discovers a mysterious secret.,general,adventure,family,write_story,12,73
+378,Write a historical fiction adventure where betrayal transforms through suspenseful trials.,general,adventure,betrayal,write_story,11,90
+379,"In a fantasy world, a hope must dark to save the betrayal.",general,fantasy,hope,world_setting,12,58
+380,Create a thriller narrative about a hope facing a whimsical challenge.,general,thriller,hope,create_narrative,11,70
+381,Write about a mystery world where sacrifice is both suspenseful and essential.,general,mystery,sacrifice,write_story,12,78
+382,Craft a sci-fi tale exploring how betrayal leads to dark family.,general,sci-fi,family,craft_narrative,11,64
+383,Tell a coming-of-age story where identity must choose between redemption and identity.,general,coming-of-age,identity,tell_story,12,86
+384,Write a coming-of-age chronicle where redemption must overcome unexpected obstacles.,general,coming-of-age,redemption,write_story,10,84
+385,Write a sci-fi chronicle where sacrifice must overcome mysterious obstacles.,general,sci-fi,sacrifice,write_story,10,76
+386,Craft a coming-of-age tale exploring how hope leads to uplifting survival.,general,coming-of-age,hope,craft_narrative,11,74
+387,"In a unexpected romance realm, love discovers the power of identity.",general,romance,love,world_setting,11,68
+388,Craft a adventure tale exploring how betrayal leads to unexpected hope.,general,adventure,hope,craft_narrative,11,71
+389,Create a mystery odyssey focused on redemption and their whimsical destiny.,general,mystery,redemption,create_narrative,11,75
+390,Create a sci-fi saga about the suspenseful journey of family.,general,sci-fi,family,create_narrative,10,61
+391,Tell a romance legend about a survival seeking mysterious survival.,general,romance,survival,tell_story,10,67
+392,Write about a romance world where love is both unexpected and essential.,general,romance,love,write_story,12,72
+393,Create a mystery odyssey focused on survival and their humorous destiny.,general,mystery,survival,create_narrative,11,72
+394,Write a fantasy chronicle where identity must overcome suspenseful obstacles.,general,fantasy,identity,write_story,10,77
+395,Write about a coming-of-age who finds love in a unexpected setting.,general,coming-of-age,love,write_story,11,67
+396,Create a horror odyssey focused on sacrifice and their dark destiny.,general,horror,sacrifice,create_narrative,11,68
+397,Tell a historical fiction legend about a survival seeking dark survival.,general,historical fiction,survival,tell_story,11,72
+398,Write a romance adventure where love transforms through whimsical trials.,general,romance,love,write_story,10,73
+399,Tell a thriller legend about a identity seeking whimsical sacrifice.,general,thriller,sacrifice,tell_story,10,68
+400,Create a coming-of-age odyssey focused on love and their dark destiny.,general,coming-of-age,love,create_narrative,11,70
+401,Tell a fantasy story where survival must choose between love and hope.,general,fantasy,love,tell_story,12,70
+402,Craft a romance epic where family becomes the key to mysterious sacrifice.,general,romance,family,craft_narrative,12,74
+403,Write a romance adventure where survival transforms through suspenseful trials.,general,romance,survival,write_story,10,79
+404,Craft a mystery epic where family becomes the key to humorous hope.,general,mystery,family,craft_narrative,12,67
+405,Write a horror tale about a hope who discovers a mysterious secret.,general,horror,hope,write_story,12,67
+406,"In a romance world, a sacrifice must whimsical to save the survival.",general,romance,sacrifice,world_setting,12,68
+407,Create a fantasy saga about the suspenseful journey of redemption.,general,fantasy,redemption,create_narrative,10,66
+408,Write about a romance who finds identity in a suspenseful setting.,general,romance,identity,write_story,11,66
+409,Write a sci-fi adventure where love transforms through humorous trials.,general,sci-fi,love,write_story,10,71
+410,Write about a fantasy world where redemption is both suspenseful and essential.,general,fantasy,redemption,write_story,12,79
+411,Write a adventure chronicle where identity must overcome whimsical obstacles.,general,adventure,identity,write_story,10,77
+412,Write a thriller chronicle where redemption must overcome unexpected obstacles.,general,thriller,redemption,write_story,10,79
+413,Write about a mystery world where redemption is both whimsical and essential.,general,mystery,redemption,write_story,12,77
+414,Write a thriller narrative about a family who discovers a dark secret.,general,thriller,family,write_story,12,70
+415,Craft a fantasy epic where survival becomes the key to whimsical hope.,general,fantasy,hope,craft_narrative,12,70
+416,"In a horror world, a family must dark to save the survival.",general,horror,family,world_setting,12,59
+417,Write a fantasy tale about a sacrifice who discovers a dark secret.,general,fantasy,sacrifice,write_story,12,67
+418,Create a coming-of-age saga about the humorous journey of sacrifice.,general,coming-of-age,sacrifice,create_narrative,10,68
+419,Tell a romance legend about a family seeking dark identity.,general,romance,family,tell_story,10,59
+420,Write a coming-of-age story about a sacrifice who discovers a whimsical secret.,general,coming-of-age,sacrifice,write_story,12,79
+421,Craft a romance tale exploring how sacrifice leads to suspenseful identity.,general,romance,sacrifice,craft_narrative,11,75
+422,Write about a coming-of-age world where love is both suspenseful and essential.,general,coming-of-age,love,write_story,12,79
+423,Tell a coming-of-age story where sacrifice must choose between sacrifice and family.,general,coming-of-age,family,tell_story,12,84
+424,Craft a horror tale exploring how hope leads to humorous identity.,general,horror,hope,craft_narrative,11,66
+425,Write a thriller tale where hope leads to an unexpected dark.,general,thriller,hope,write_story,11,61
+426,Tell a coming-of-age legend about a survival seeking uplifting hope.,general,coming-of-age,hope,tell_story,10,68
+427,Tell a coming-of-age legend about a betrayal seeking suspenseful redemption.,general,coming-of-age,betrayal,tell_story,10,76
+428,Tell a romance legend about a identity seeking uplifting family.,general,romance,family,tell_story,10,64
+429,Create a thriller odyssey focused on love and their dark destiny.,general,thriller,love,create_narrative,11,65
+430,Craft a adventure epic where family becomes the key to uplifting redemption.,general,adventure,family,craft_narrative,12,76
+431,Craft a sci-fi tale exploring how sacrifice leads to humorous identity.,general,sci-fi,sacrifice,craft_narrative,11,71
+432,Write a romance tale about a love who discovers a humorous secret.,general,romance,love,write_story,12,66
+433,Tell a mystery legend about a betrayal seeking mysterious love.,general,mystery,love,tell_story,10,63
+434,Write a horror adventure where sacrifice transforms through uplifting trials.,general,horror,sacrifice,write_story,10,77
+435,Tell a thriller story where family must choose between family and redemption.,general,thriller,family,tell_story,12,77
+436,Write about a thriller who finds hope in a whimsical setting.,general,thriller,hope,write_story,11,61
+437,Create a mystery odyssey focused on redemption and their whimsical destiny.,general,mystery,redemption,create_narrative,11,75
+438,Write about a coming-of-age who finds family in a humorous setting.,general,coming-of-age,family,write_story,11,67
+439,Write about a thriller who finds survival in a uplifting setting.,general,thriller,survival,write_story,11,65
+440,Create a historical fiction saga about the suspenseful journey of redemption.,general,historical fiction,redemption,create_narrative,11,77
+441,Craft a romance epic where love becomes the key to humorous identity.,general,romance,love,craft_narrative,12,69
+442,Craft a horror epic where hope becomes the key to mysterious identity.,general,horror,hope,craft_narrative,12,70
+443,Craft a sci-fi epic where love becomes the key to humorous survival.,general,sci-fi,love,craft_narrative,12,68
+444,Write about a coming-of-age world where love is both whimsical and essential.,general,coming-of-age,love,write_story,12,77
+445,Write a thriller story about a betrayal who discovers a dark secret.,general,thriller,betrayal,write_story,12,68
+446,"In a romance world, a survival must humorous to save the hope.",general,romance,hope,world_setting,12,62
+447,Write about a sci-fi world where hope is both suspenseful and essential.,general,sci-fi,hope,write_story,12,72
+448,Write a mystery tale where redemption leads to an unexpected whimsical.,general,mystery,redemption,write_story,11,71
+449,Create a thriller narrative about a betrayal facing a suspenseful challenge.,general,thriller,betrayal,create_narrative,11,76
+450,Craft a horror tale exploring how redemption leads to mysterious family.,general,horror,family,craft_narrative,11,72
+451,Create a fantasy odyssey focused on betrayal and their suspenseful destiny.,general,fantasy,betrayal,create_narrative,11,75
+452,Create a sci-fi tale about a betrayal facing a whimsical challenge.,general,sci-fi,betrayal,create_narrative,11,67
+453,Create a coming-of-age odyssey focused on betrayal and their uplifting destiny.,general,coming-of-age,betrayal,create_narrative,11,79
+454,Create a historical fiction odyssey focused on identity and their humorous destiny.,general,historical fiction,identity,create_narrative,12,83
+455,Write about a sci-fi who finds hope in a uplifting setting.,general,sci-fi,hope,write_story,11,59
+456,Write a thriller story about a betrayal who discovers a unexpected secret.,general,thriller,betrayal,write_story,12,74
+457,"In a coming-of-age world, a betrayal must dark to save the redemption.",general,coming-of-age,betrayal,world_setting,12,70
+458,Tell a fantasy story where love must choose between family and hope.,general,fantasy,family,tell_story,12,68
+459,Create a adventure odyssey focused on love and their mysterious destiny.,general,adventure,love,create_narrative,11,72
+460,Create a fantasy odyssey focused on redemption and their dark destiny.,general,fantasy,redemption,create_narrative,11,70
+461,"In a adventure world, a love must unexpected to save the family.",general,adventure,family,world_setting,12,64
+462,Create a adventure story about a redemption facing a unexpected challenge.,general,adventure,redemption,create_narrative,11,74
+463,Write a coming-of-age chronicle where family must overcome uplifting obstacles.,general,coming-of-age,family,write_story,10,79
+464,Write about a sci-fi world where betrayal is both whimsical and essential.,general,sci-fi,betrayal,write_story,12,74
+465,Create a thriller saga about the suspenseful journey of hope.,general,thriller,hope,create_narrative,10,61
+466,Create a historical fiction saga about the unexpected journey of love.,general,historical fiction,love,create_narrative,11,70
+467,Write a mystery chronicle where betrayal must overcome humorous obstacles.,general,mystery,betrayal,write_story,10,74
+468,Write a mystery tale where identity leads to an unexpected humorous.,general,mystery,identity,write_story,11,68
+469,"In a sci-fi world, a hope must uplifting to save the survival.",general,sci-fi,hope,world_setting,12,62
+470,Create a romance tale about a redemption facing a dark challenge.,general,romance,redemption,create_narrative,11,65
+471,Craft a fantasy tale exploring how redemption leads to dark betrayal.,general,fantasy,betrayal,craft_narrative,11,69
+472,Write a coming-of-age adventure where hope transforms through mysterious trials.,general,adventure,hope,write_story,10,80
+473,Write a adventure tale where survival leads to an unexpected whimsical.,general,adventure,survival,write_story,11,71
+474,Write a adventure adventure where survival transforms through humorous trials.,general,adventure,survival,write_story,10,78
+475,Tell a sci-fi legend about a survival seeking whimsical survival.,general,sci-fi,survival,tell_story,10,65
+476,Write a historical fiction story about a love who discovers a humorous secret.,general,historical fiction,love,write_story,13,78
+477,"In a humorous thriller realm, redemption discovers the power of sacrifice.",general,thriller,sacrifice,world_setting,11,74
+478,Tell a thriller story where family must choose between love and family.,general,thriller,family,tell_story,12,71
+479,Write a adventure tale where identity leads to an unexpected dark.,general,adventure,identity,write_story,11,66
+480,"In a whimsical adventure realm, sacrifice discovers the power of redemption.",general,adventure,sacrifice,world_setting,11,76
+481,Tell a sci-fi story where love must choose between identity and identity.,general,sci-fi,love,tell_story,12,73
+482,Create a adventure odyssey focused on sacrifice and their dark destiny.,general,adventure,sacrifice,create_narrative,11,71
+483,Create a mystery odyssey focused on family and their unexpected destiny.,general,mystery,family,create_narrative,11,72
+484,Create a horror odyssey focused on hope and their whimsical destiny.,general,horror,hope,create_narrative,11,68
+485,Write a horror story about a identity who discovers a unexpected secret.,general,horror,identity,write_story,12,72
+486,Write a adventure story about a love who discovers a unexpected secret.,general,adventure,love,write_story,12,71
+487,Write about a thriller world where survival is both suspenseful and essential.,general,thriller,survival,write_story,12,78
+488,Write about a fantasy who finds identity in a humorous setting.,general,fantasy,identity,write_story,11,63
+489,Create a coming-of-age saga about the unexpected journey of family.,general,coming-of-age,family,create_narrative,10,67
+490,Tell a historical fiction story where betrayal must choose between identity and love.,general,historical fiction,love,tell_story,13,85
+491,"In a whimsical adventure realm, betrayal discovers the power of betrayal.",general,adventure,betrayal,world_setting,11,73
+492,"In a whimsical fantasy realm, hope discovers the power of love.",general,fantasy,love,world_setting,11,63
+493,"In a horror world, a betrayal must whimsical to save the betrayal.",general,horror,betrayal,world_setting,12,66
+494,Craft a romance epic where hope becomes the key to suspenseful hope.,general,romance,hope,craft_narrative,12,68
+495,"In a adventure world, a identity must suspenseful to save the hope.",general,adventure,hope,world_setting,12,67
+496,Create a thriller saga about the unexpected journey of love.,general,thriller,love,create_narrative,10,60
+497,Write a thriller adventure where love transforms through suspenseful trials.,general,adventure,love,write_story,10,76
+498,Tell a thriller legend about a love seeking unexpected hope.,general,thriller,love,tell_story,10,60
+499,Write a horror chronicle where love must overcome uplifting obstacles.,general,horror,love,write_story,10,70
+500,Write a thriller narrative about a sacrifice who discovers a unexpected secret.,general,thriller,sacrifice,write_story,12,79
+501,Create a horror narrative about betrayal facing a dark challenge.,horror_focused,horror,betrayal,create_narrative,10,65
+502,Create a horror narrative about betrayal facing a suspenseful challenge.,horror_focused,horror,betrayal,create_narrative,10,72
+503,"In a horror world, a survival must dark to save the family.",horror_focused,horror,family,world_setting,12,59
+504,Write a horror tale where survival leads to an unexpected mysterious.,horror_focused,horror,survival,write_story,11,69
+505,"In a horror world, a betrayal must mysterious to save the hope.",horror_focused,horror,hope,world_setting,12,63
+506,"In a horror world, a survival must mysterious to save the hope.",horror_focused,horror,hope,world_setting,12,63
+507,Write a horror tale where betrayal leads to an unexpected dark.,horror_focused,horror,betrayal,write_story,11,63
+508,Write a horror tale where survival leads to an unexpected mysterious.,horror_focused,horror,survival,write_story,11,69
+509,"In a horror world, a betrayal must mysterious to save the family.",horror_focused,horror,family,world_setting,12,65
+510,"In a horror world, a survival must mysterious to save the hope.",horror_focused,horror,hope,world_setting,12,63
+511,Create a horror narrative about family facing a mysterious challenge.,horror_focused,horror,family,create_narrative,10,69
+512,"In a horror world, a betrayal must dark to save the identity.",horror_focused,horror,identity,world_setting,12,61
+513,"In a horror world, a betrayal must dark to save the identity.",horror_focused,horror,identity,world_setting,12,61
+514,Create a horror narrative about family facing a suspenseful challenge.,horror_focused,horror,family,create_narrative,10,70
+515,Create a horror narrative about betrayal facing a mysterious challenge.,horror_focused,horror,betrayal,create_narrative,10,71
+516,Create a horror narrative about betrayal facing a suspenseful challenge.,horror_focused,horror,betrayal,create_narrative,10,72
+517,Create a horror narrative about sacrifice facing a dark challenge.,horror_focused,horror,sacrifice,create_narrative,10,66
+518,Create a horror narrative about betrayal facing a suspenseful challenge.,horror_focused,horror,betrayal,create_narrative,10,72
+519,Create a horror narrative about family facing a suspenseful challenge.,horror_focused,horror,family,create_narrative,10,70
+520,Create a horror narrative about sacrifice facing a suspenseful challenge.,horror_focused,horror,sacrifice,create_narrative,10,73
+521,Create a horror narrative about family facing a suspenseful challenge.,horror_focused,horror,family,create_narrative,10,70
+522,"In a horror world, a survival must suspenseful to save the identity.",horror_focused,horror,identity,world_setting,12,68
+523,Write a horror tale where sacrifice leads to an unexpected mysterious.,horror_focused,horror,sacrifice,write_story,11,70
+524,Write a horror tale where sacrifice leads to an unexpected mysterious.,horror_focused,horror,sacrifice,write_story,11,70
+525,Create a horror narrative about betrayal facing a suspenseful challenge.,horror_focused,horror,betrayal,create_narrative,10,72
+526,"In a horror world, a betrayal must suspenseful to save the hope.",horror_focused,horror,hope,world_setting,12,64
+527,"In a horror world, a betrayal must mysterious to save the family.",horror_focused,horror,family,world_setting,12,65
+528,Create a horror narrative about family facing a dark challenge.,horror_focused,horror,family,create_narrative,10,63
+529,"In a horror world, a sacrifice must mysterious to save the identity.",horror_focused,horror,sacrifice,world_setting,12,68
+530,Write a horror tale where sacrifice leads to an unexpected dark.,horror_focused,horror,sacrifice,write_story,11,64
+531,Write a horror tale where betrayal leads to an unexpected mysterious.,horror_focused,horror,betrayal,write_story,11,69
+532,"In a horror world, a sacrifice must suspenseful to save the hope.",horror_focused,horror,sacrifice,world_setting,12,65
+533,Create a horror narrative about sacrifice facing a suspenseful challenge.,horror_focused,horror,sacrifice,create_narrative,10,73
+534,Create a horror narrative about sacrifice facing a mysterious challenge.,horror_focused,horror,sacrifice,create_narrative,10,72
+535,Write a horror tale where sacrifice leads to an unexpected mysterious.,horror_focused,horror,sacrifice,write_story,11,70
+536,"In a horror world, a betrayal must dark to save the hope.",horror_focused,horror,hope,world_setting,12,57
+537,"In a horror world, a betrayal must suspenseful to save the family.",horror_focused,horror,family,world_setting,12,66
+538,Create a horror narrative about survival facing a suspenseful challenge.,horror_focused,horror,survival,create_narrative,10,72
+539,Write a horror tale where sacrifice leads to an unexpected mysterious.,horror_focused,horror,sacrifice,write_story,11,70
+540,"In a horror world, a betrayal must dark to save the identity.",horror_focused,horror,identity,world_setting,12,61
+541,Create a horror narrative about survival facing a mysterious challenge.,horror_focused,horror,survival,create_narrative,10,71
+542,"In a horror world, a sacrifice must suspenseful to save the family.",horror_focused,horror,family,world_setting,12,67
+543,Create a horror narrative about survival facing a mysterious challenge.,horror_focused,horror,survival,create_narrative,10,71
+544,"In a horror world, a sacrifice must suspenseful to save the hope.",horror_focused,horror,sacrifice,world_setting,12,65
+545,Write a horror tale where betrayal leads to an unexpected dark.,horror_focused,horror,betrayal,write_story,11,63
+546,Write a horror tale where survival leads to an unexpected dark.,horror_focused,horror,survival,write_story,11,63
+547,Write a horror tale where survival leads to an unexpected dark.,horror_focused,horror,survival,write_story,11,63
+548,"In a horror world, a survival must suspenseful to save the family.",horror_focused,horror,family,world_setting,12,66
+549,Write a horror tale where betrayal leads to an unexpected mysterious.,horror_focused,horror,betrayal,write_story,11,69
+550,Write a horror tale where betrayal leads to an unexpected mysterious.,horror_focused,horror,betrayal,write_story,11,69
+551,Write a romance story about a family who discovers a humorous secret.,romance_focused,romance,family,write_story,12,69
+552,Create a romance narrative about love facing a humorous challenge.,romance_focused,romance,love,create_narrative,10,66
+553,Write a romance story about a family who discovers a mysterious secret.,romance_focused,romance,family,write_story,12,71
+554,"In a romance world, a identity must whimsical to save the love.",romance_focused,romance,love,world_setting,12,63
+555,Write a romance story about a family who discovers a mysterious secret.,romance_focused,romance,family,write_story,12,71
+556,Create a romance narrative about sacrifice facing a mysterious challenge.,romance_focused,romance,sacrifice,create_narrative,10,73
+557,"In a romance world, a love must mysterious to save the hope.",romance_focused,romance,love,world_setting,12,60
+558,Create a romance narrative about hope facing a humorous challenge.,romance_focused,romance,hope,create_narrative,10,66
+559,"In a romance world, a sacrifice must uplifting to save the love.",romance_focused,romance,sacrifice,world_setting,12,64
+560,Write a romance story about a love who discovers a mysterious secret.,romance_focused,romance,love,write_story,12,69
+561,"In a romance world, a sacrifice must uplifting to save the family.",romance_focused,romance,family,world_setting,12,66
+562,"In a romance world, a sacrifice must mysterious to save the love.",romance_focused,romance,sacrifice,world_setting,12,65
+563,Create a romance narrative about sacrifice facing a mysterious challenge.,romance_focused,romance,sacrifice,create_narrative,10,73
+564,"In a romance world, a love must uplifting to save the family.",romance_focused,romance,family,world_setting,12,61
+565,"In a romance world, a love must whimsical to save the hope.",romance_focused,romance,love,world_setting,12,59
+566,"In a romance world, a identity must whimsical to save the hope.",romance_focused,romance,hope,world_setting,12,63
+567,Write a romance story about a love who discovers a mysterious secret.,romance_focused,romance,love,write_story,12,69
+568,Write a romance story about a family who discovers a humorous secret.,romance_focused,romance,family,write_story,12,69
+569,Create a romance narrative about hope facing a mysterious challenge.,romance_focused,romance,hope,create_narrative,10,68
+570,Write a romance story about a love who discovers a mysterious secret.,romance_focused,romance,love,write_story,12,69
+571,"In a romance world, a sacrifice must mysterious to save the family.",romance_focused,romance,family,world_setting,12,67
+572,Create a romance narrative about love facing a uplifting challenge.,romance_focused,romance,love,create_narrative,10,67
+573,"In a romance world, a identity must mysterious to save the hope.",romance_focused,romance,hope,world_setting,12,64
+574,Create a romance narrative about love facing a humorous challenge.,romance_focused,romance,love,create_narrative,10,66
+575,Create a romance narrative about hope facing a mysterious challenge.,romance_focused,romance,hope,create_narrative,10,68
+576,Write a romance story about a love who discovers a humorous secret.,romance_focused,romance,love,write_story,12,67
+577,"In a romance world, a identity must uplifting to save the family.",romance_focused,romance,family,world_setting,12,65
+578,Create a romance narrative about love facing a humorous challenge.,romance_focused,romance,love,create_narrative,10,66
+579,Create a romance narrative about sacrifice facing a humorous challenge.,romance_focused,romance,sacrifice,create_narrative,10,71
+580,Write a romance story about a family who discovers a mysterious secret.,romance_focused,romance,family,write_story,12,71
+581,"In a romance world, a identity must mysterious to save the family.",romance_focused,romance,family,world_setting,12,66
+582,Write a romance story about a family who discovers a uplifting secret.,romance_focused,romance,family,write_story,12,70
+583,Write a romance story about a hope who discovers a mysterious secret.,romance_focused,romance,hope,write_story,12,69
+584,Create a romance narrative about sacrifice facing a humorous challenge.,romance_focused,romance,sacrifice,create_narrative,10,71
+585,Create a romance narrative about love facing a uplifting challenge.,romance_focused,romance,love,create_narrative,10,67
+586,"In a romance world, a love must uplifting to save the hope.",romance_focused,romance,love,world_setting,12,59
+587,Write a romance story about a love who discovers a mysterious secret.,romance_focused,romance,love,write_story,12,69
+588,"In a romance world, a identity must mysterious to save the hope.",romance_focused,romance,hope,world_setting,12,64
+589,"In a romance world, a sacrifice must whimsical to save the family.",romance_focused,romance,family,world_setting,12,66
+590,Write a romance story about a love who discovers a mysterious secret.,romance_focused,romance,love,write_story,12,69
+591,Write a romance story about a love who discovers a mysterious secret.,romance_focused,romance,love,write_story,12,69
+592,Create a romance narrative about love facing a humorous challenge.,romance_focused,romance,love,create_narrative,10,66
+593,"In a romance world, a love must mysterious to save the hope.",romance_focused,romance,love,world_setting,12,60
+594,Create a romance narrative about love facing a uplifting challenge.,romance_focused,romance,love,create_narrative,10,67
+595,"In a romance world, a love must whimsical to save the family.",romance_focused,romance,family,world_setting,12,61
+596,"In a romance world, a love must uplifting to save the family.",romance_focused,romance,family,world_setting,12,61
+597,Write a romance story about a family who discovers a humorous secret.,romance_focused,romance,family,write_story,12,69
+598,"In a romance world, a sacrifice must mysterious to save the family.",romance_focused,romance,family,world_setting,12,67
+599,"In a romance world, a identity must uplifting to save the hope.",romance_focused,romance,hope,world_setting,12,63
+600,Write a romance story about a hope who discovers a uplifting secret.,romance_focused,romance,hope,write_story,12,68
